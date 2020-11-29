@@ -8,6 +8,7 @@ control green gk401 keyboard backlight on ubuntu(20.04)
 define shortcut to run **backlight_toggle** command
 
 **if you had problem with switching layout do next steps:**
+
 run below command to reset **gsettings**
 
     gsettings reset org.gnome.desktop.input-sources xkb-options
